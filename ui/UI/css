@@ -1,0 +1,8 @@
+ui/
+├─ package.json
+├─ vite.config.ts
+├─ .env.example
+├─ index.html
+└─ src/
+   ├─ main.jsx
+   └─ App.jsx
