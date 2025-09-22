@@ -1,0 +1,4 @@
+cd server
+cp .env.example .env           # put your Stripe TEST keys (sk_test_...); keep BASE_URL as http://localhost:5173
+npm i
+npm run dev
