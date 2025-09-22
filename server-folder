@@ -1,0 +1,13 @@
+server/
+├─ package.json
+├─ .env.example
+├─ README.md
+└─ src/
+   ├─ index.js
+   ├─ db.js
+   ├─ routes/
+   │   ├─ checkout.js
+   │   └─ webhooks.js
+   └─ email/
+       ├─ receipt.mjml
+       └─ send.js
